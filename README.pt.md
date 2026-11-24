@@ -1,7 +1,6 @@
-# Federal Contracts Feed (SAM.gov + Grants.gov) — exemplos
+**READMEs:** [English](README.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md) · [한국어](README.ko.md)
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-govcon-opportunity-feed-examples/blob/main/notebooks/quickstart.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-govcon-opportunity-feed-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+# Federal Contracts Feed (SAM.gov + Grants.gov) — exemplos
 
 Novos avisos federais de contratos e subsídios dos EUA (SAM.gov e Grants.gov) num único feed.
 
@@ -26,4 +25,3 @@ python3 examples/python/run.py
 
 Há exemplos em Python, JavaScript e curl em `examples/`. Autor: Public Records. Licença: MIT. Este repositório não usa GitHub Actions.
 
-READMEs: [English](README.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [Português](README.pt.md)
