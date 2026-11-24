@@ -1,5 +1,8 @@
 # Federal Contracts Feed (SAM.gov + Grants.gov) — exemples
 
+[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-govcon-opportunity-feed-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-govcon-opportunity-feed-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Nouveaux avis de marchés et de subventions fédéraux US (SAM.gov et Grants.gov) dans un seul flux.
 
 L'Actor s'exécute sur **votre** compte Apify (jeton API ou OAuth). L'usage vous est facturé, sur l'offre gratuite ou payante d'Apify.

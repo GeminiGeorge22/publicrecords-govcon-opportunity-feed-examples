@@ -1,5 +1,8 @@
 # Federal Contracts Feed (SAM.gov + Grants.gov) — 使用例
 
+[![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-govcon-opportunity-feed-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-govcon-opportunity-feed-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 SAM.govとGrants.govの米連邦契約・助成金の新着告示を一つのフィードで。
 
 このActorは**あなた自身の**Apifyアカウント（APIトークンまたはOAuth）で実行します。利用料はApifyの無料または有料プランであなたに課金されます。
